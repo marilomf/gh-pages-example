@@ -7,6 +7,6 @@ title: Example
 
 ## News
 
-- Some event
-- Another exciting event
+- Some event in Otaniemi
+- Another exciting event in Helsinki
 - More news

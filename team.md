@@ -3,12 +3,12 @@ layout: page
 title: Team
 ---
 
-# Person A
+# Maria
 
 Short bio ...
 
 
-# Person B
+# Lorena
 
 Short bio ...
 
